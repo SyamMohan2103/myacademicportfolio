@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Syam Mohan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Syam Mohan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Syam
+last_name: Mohan
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: AI Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,26 +25,27 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm an AI Engineer, with around 6 years of experience in the Machine Learning and AI Industry. I completed my Masters in AI from RMIT University, Melbourne.
+
+At RMIT I've worked on Deep Learning, Multimodal Deep learning and Programming Autonomous Robots. My minor thesis work was on the optimization of object detection algorithms and was supervised by Prof. Andy Song. I also worked on research projects under Dr. Ruwan Tennakoon.
+
+Prior to pursuing Masters, I worked as a Machine Learning Engineer at TCS Digital Lab for 5 years.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Deep Learning
   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MSc in Artificial Intelligence
+      institution: RMIT University
+      year: 2022
+    - course: BTech in Electrical & Electronics
+      institution: Cochin University of Science and Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
